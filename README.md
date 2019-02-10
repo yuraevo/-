@@ -1,3 +1,3 @@
 # SeaBattle
 
-![Image alt](https://github.com/{yuraevo}/{SeaBattle}/ico.ico)
+![Image alt](https://github.com/{yuraevo}/{SeaBattle}/SeaBattle.png)
